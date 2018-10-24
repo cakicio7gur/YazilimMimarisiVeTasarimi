@@ -1,0 +1,2 @@
+# YazilimMimarisiVeTasarimi
+YazilimMimarisiVeTasarimiProjesi
