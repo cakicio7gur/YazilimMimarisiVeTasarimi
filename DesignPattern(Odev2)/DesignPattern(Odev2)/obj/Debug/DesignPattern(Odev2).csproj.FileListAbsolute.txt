@@ -1,0 +1,22 @@
+C:\Users\Akın\Desktop\DesignPattern(Odev2)\DesignPattern(Odev2)\bin\Debug\DesignPattern(Odev2).exe.config
+C:\Users\Akın\Desktop\DesignPattern(Odev2)\DesignPattern(Odev2)\bin\Debug\DesignPattern(Odev2).exe
+C:\Users\Akın\Desktop\DesignPattern(Odev2)\DesignPattern(Odev2)\bin\Debug\DesignPattern(Odev2).pdb
+C:\Users\Akın\Desktop\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern(Odev2).csprojResolveAssemblyReference.cache
+C:\Users\Akın\Desktop\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern_Odev2_.Form1.resources
+C:\Users\Akın\Desktop\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern_Odev2_.Properties.Resources.resources
+C:\Users\Akın\Desktop\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern(Odev2).csproj.GenerateResource.cache
+C:\Users\Akın\Desktop\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern(Odev2).csproj.CoreCompileInputs.cache
+C:\Users\Akın\Desktop\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern(Odev2).exe
+C:\Users\Akın\Desktop\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern(Odev2).pdb
+C:\Users\HP\Desktop\DesignPattern(Odev2)\DesignPattern(Odev2)\bin\Debug\DesignPattern(Odev2).exe.config
+C:\Users\HP\Desktop\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern(Odev2).exe
+C:\Users\HP\Desktop\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern(Odev2).pdb
+C:\Users\Lenovo\Desktop\Dersler\YAZILIM MİMARİSİ VE TASARIM\Ödevler\Yazılım Mimarisi Deneme\DesignPattern(Odev2)\DesignPattern(Odev2)\bin\Debug\DesignPattern(Odev2).exe.config
+C:\Users\Lenovo\Desktop\Dersler\YAZILIM MİMARİSİ VE TASARIM\Ödevler\Yazılım Mimarisi Deneme\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern(Odev2).exe
+C:\Users\Lenovo\Desktop\Dersler\YAZILIM MİMARİSİ VE TASARIM\Ödevler\Yazılım Mimarisi Deneme\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern(Odev2).pdb
+C:\Users\Lenovo\Desktop\Dersler\YAZILIM MİMARİSİ VE TASARIM\Ödevler\Yazılım Mimarisi Deneme\DesignPattern(Odev2)\DesignPattern(Odev2)\bin\Debug\DesignPattern(Odev2).exe
+C:\Users\Lenovo\Desktop\Dersler\YAZILIM MİMARİSİ VE TASARIM\Ödevler\Yazılım Mimarisi Deneme\DesignPattern(Odev2)\DesignPattern(Odev2)\bin\Debug\DesignPattern(Odev2).pdb
+C:\Users\Lenovo\Desktop\Dersler\YAZILIM MİMARİSİ VE TASARIM\Ödevler\Yazılım Mimarisi Deneme\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern(Odev2).csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Dersler\YAZILIM MİMARİSİ VE TASARIM\Ödevler\Yazılım Mimarisi Deneme\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern_Odev2_.Form1.resources
+C:\Users\Lenovo\Desktop\Dersler\YAZILIM MİMARİSİ VE TASARIM\Ödevler\Yazılım Mimarisi Deneme\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern_Odev2_.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Dersler\YAZILIM MİMARİSİ VE TASARIM\Ödevler\Yazılım Mimarisi Deneme\DesignPattern(Odev2)\DesignPattern(Odev2)\obj\Debug\DesignPattern(Odev2).csproj.GenerateResource.Cache

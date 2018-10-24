@@ -1,0 +1,16 @@
+C:\Users\Akın\Desktop\DesignPattern(Odev1)\DesignPattern(Odev1)\bin\Debug\DesignPattern(Odev1).exe.config
+C:\Users\Akın\Desktop\DesignPattern(Odev1)\DesignPattern(Odev1)\bin\Debug\DesignPattern(Odev1).exe
+C:\Users\Akın\Desktop\DesignPattern(Odev1)\DesignPattern(Odev1)\bin\Debug\DesignPattern(Odev1).pdb
+C:\Users\Akın\Desktop\DesignPattern(Odev1)\DesignPattern(Odev1)\obj\Debug\DesignPattern(Odev1).csprojResolveAssemblyReference.cache
+C:\Users\Akın\Desktop\DesignPattern(Odev1)\DesignPattern(Odev1)\obj\Debug\DesignPattern_Odev1_.Form1.resources
+C:\Users\Akın\Desktop\DesignPattern(Odev1)\DesignPattern(Odev1)\obj\Debug\DesignPattern_Odev1_.Properties.Resources.resources
+C:\Users\Akın\Desktop\DesignPattern(Odev1)\DesignPattern(Odev1)\obj\Debug\DesignPattern(Odev1).csproj.GenerateResource.cache
+C:\Users\Akın\Desktop\DesignPattern(Odev1)\DesignPattern(Odev1)\obj\Debug\DesignPattern(Odev1).csproj.CoreCompileInputs.cache
+C:\Users\Akın\Desktop\DesignPattern(Odev1)\DesignPattern(Odev1)\obj\Debug\DesignPattern(Odev1).exe
+C:\Users\Akın\Desktop\DesignPattern(Odev1)\DesignPattern(Odev1)\obj\Debug\DesignPattern(Odev1).pdb
+C:\Users\HP\Desktop\DesignPattern(Odev1)\DesignPattern(Odev1)\bin\Debug\DesignPattern(Odev1).exe.config
+C:\Users\HP\Desktop\DesignPattern(Odev1)\DesignPattern(Odev1)\obj\Debug\DesignPattern(Odev1).exe
+C:\Users\HP\Desktop\DesignPattern(Odev1)\DesignPattern(Odev1)\obj\Debug\DesignPattern(Odev1).pdb
+F:\DesignPattern(Odev1)\DesignPattern(Odev1)\bin\Debug\DesignPattern(Odev1).exe.config
+F:\DesignPattern(Odev1)\DesignPattern(Odev1)\obj\Debug\DesignPattern(Odev1).exe
+F:\DesignPattern(Odev1)\DesignPattern(Odev1)\obj\Debug\DesignPattern(Odev1).pdb
